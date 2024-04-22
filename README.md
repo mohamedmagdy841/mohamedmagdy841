@@ -4,10 +4,12 @@
 - 🌱 I’m currently learning **Generative AI**
 
 - 💬 Ask me about **Deep Learning and Computer Vision**
+  <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="350" height="250">
 
 - 📫 How to reach me **mmagdy841@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-Pw37PI_0TohBF-iNcYpaNt5Vp2PjOmJ/view?usp=drive_link](https://drive.google.com/file/d/1-Pw37PI_0TohBF-iNcYpaNt5Vp2PjOmJ/view?usp=drive_link)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
