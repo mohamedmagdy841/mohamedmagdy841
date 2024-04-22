@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Generative AI**
 
+- 💬 Ask me about **Deep Learning and Computer Vision**
+
 - 📫 How to reach me **mmagdy841@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-Pw37PI_0TohBF-iNcYpaNt5Vp2PjOmJ/view?usp=drive_link](https://drive.google.com/file/d/1-Pw37PI_0TohBF-iNcYpaNt5Vp2PjOmJ/view?usp=drive_link)
