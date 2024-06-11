@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **mmagdy841@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-Pw37PI_0TohBF-iNcYpaNt5Vp2PjOmJ/view?usp=drive_link](https://drive.google.com/file/d/1TvtSu1w0sz4lKYzkYQjpf8za_LJlOybI/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1JtRiqqOYWOd-jFIp8x8jjtVsQ7MMLNom/view?usp=drive_link)
 
 
 <h3 align="left">Connect with me:</h3>
