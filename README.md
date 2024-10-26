@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mohamed Magdy</h1>
 <h3 align="center">A passionate backend developer</h3>
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" height="200">
-- 📫 How to reach me **mmagdy841@gmail.com**
+<p>
+  <img src="https://github.com/user-attachments/assets/b2a985af-51f7-458e-8553-76ab7c1ad1ff" alt="Coder GIF">
+</p>
+
+- 📫 How to reach me mmagdy841@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
