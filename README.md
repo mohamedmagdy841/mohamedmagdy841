@@ -26,10 +26,8 @@
 
 <!-- Tech Stack -->
 <h3 align="left">⚡ Tech Stack & Development Tools:</h3>
-
-<!-- Languages -->
-<strong>Languages:</strong>  
-<p align="left"> 
+<p align="center"> 
+  <!-- Languages -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
@@ -42,11 +40,8 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
-</p>
 
-<!-- Frameworks -->
-<strong>Frameworks:</strong>  
-<p align="left"> 
+  <!-- Frameworks -->
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> 
   </a> 
@@ -56,12 +51,8 @@
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/user-attachments/assets/b5b0cd6a-0489-4a55-8d6b-e9b286e61271" alt="laravel" width="40" height="40"/> 
   </a> 
-</p>
 
-
-<!-- Databases -->
-<strong>Databases:</strong>  
-<p align="left"> 
+  <!-- Databases -->
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
   </a>
@@ -71,11 +62,8 @@
   <a href="https://redis.io" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
   </a>
-</p>
 
-<!-- DevOps -->
-<strong>DevOps & Infrastructure:</strong>  
-<p align="left"> 
+  <!-- DevOps & Tools -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   </a>
@@ -88,11 +76,6 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a>
-</p>
-
-<!-- Tools -->
-<strong>Tools:</strong>  
-<p align="left"> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
