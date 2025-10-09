@@ -2,20 +2,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Magdy</h1>
 <h3 align="center">🛠 Backend Developer | Building, Deploying & Scaling Applications for Production</h3>
 
-<p align="center" style="font-size:16px;">
-    <a href="mailto:mmagdy841@gmail.com" style="text-decoration:none; color:#58a6ff;">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="18" height="18" style="vertical-align:middle; margin-right:6px;"/> 
-    mmagdy841@gmail.com
-  </a>
-  &nbsp;|&nbsp;
-  <a href="https://linkedin.com/in/mohamedmagdygamal" target="_blank" rel="noreferrer" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="22" height="22" style="vertical-align:middle; margin-bottom:3px;"/>
-    <span style="color:#58a6ff; vertical-align:middle;">LinkedIn</span>
-  </a>
-</p>
-
-
-
 ---
 
 <!-- Tech Stack -->
