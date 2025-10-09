@@ -14,12 +14,6 @@
   <a href="https://linkedin.com/in/mohamedmagdygamal" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamedmagdygamal" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/mmagdy841" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mmagdy841" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/mmagdy841" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mmagdy841" height="30" width="40" />
-  </a>
 </p>
 
 ---
