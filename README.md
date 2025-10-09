@@ -2,24 +2,24 @@
 <h1 align="center">Hi 👋, I'm Mohamed Magdy</h1>
 <h3 align="center">🛠 Backend Developer | Building, Deploying & Scaling Applications for Production</h3>
 
-<p align="center">
-  📫 Reach me at: <a href="mailto:mmagdy841@gmail.com">mmagdy841@gmail.com</a>
-</p>
-
----
-
-<!-- Socials -->
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/mohamedmagdygamal" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamedmagdygamal" height="30" width="40" />
+<p align="center" style="font-size:16px;">
+    <a href="mailto:mmagdy841@gmail.com" style="text-decoration:none; color:#58a6ff;">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="18" height="18" style="vertical-align:middle; margin-right:6px;"/> 
+    mmagdy841@gmail.com
+  </a>
+  &nbsp;|&nbsp;
+  <a href="https://linkedin.com/in/mohamedmagdygamal" target="_blank" rel="noreferrer" style="text-decoration:none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="22" height="22" style="vertical-align:middle; margin-bottom:3px;"/>
+    <span style="color:#58a6ff; vertical-align:middle;">LinkedIn</span>
   </a>
 </p>
+
+
 
 ---
 
 <!-- Tech Stack -->
-<h3 align="left">⚡ Tech Stack & Development Tools:</h3>
+<h3 align="center">⚡ Tech Stack & Development Tools:</h3>
 <p align="center"> 
   <!-- Languages -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
